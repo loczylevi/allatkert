@@ -1,0 +1,28 @@
+.p{text-align: center;}
+
+
+.sarga{
+    text-align: center;
+    color: yellow;
+}
+.piros{
+    color:red ;
+    text-align: center;
+}
+#jobbra{
+    float: right;
+    width: 250px;
+    height: 350px;
+    border-radius: 1000px;
+}
+body{
+    background-color: aqua;
+}
+
+hr{
+    width: 50px;
+    display: block;
+    height: 2000px;
+    border: 20px;
+
+}
